@@ -17,7 +17,8 @@ Languages   Python · Java · C · Bash
 ML/DL       PyTorch · TensorFlow · HuggingFace · Transformers · scikit-learn
 Data        pandas · NumPy · PostgreSQL · Redis · MariaDB · KNIME
 Backend     FastAPI · REST APIs
-Infra       Docker · Linux · Git · MLflow
+Infra       Linux · Docker · Git · GitHub Actions · MLflow
+Practices   OOP · CI/CD · MLOps · system design
 Workflow    GitHub · Jira
 ```
 
