@@ -40,10 +40,9 @@ Zero-shot routing system that dynamically switches between INT4 and FP32 LLM inf
 Achieved 72.6% energy reduction, 39.1% latency improvement, and 1.5–2.2× throughput gains on mobile hardware.  
 `TinyLlama · Qwen3-0.6B · iPhone A16/A18 · on-device inference`
 
-**🔬 RobustCAM — Augmentation-Consistent Grad-CAM**
-Framework for transformation-invariant visual attributions by aggregating Grad-CAM outputs across augmented views.  
-Ships a full MLflow evaluation pipeline with pixel-wise robustness metrics (variance, IoU@K, Spearman) for systematic explainability benchmarking.  
-`Grad-CAM · MLflow · CNN explainability · batch robustness analysis`
+**🔬 RobustCAM — Faithful Grad-CAM for Lung CT Classification**
+ResNet50 fine-tuned on IQ-OTH/NCCD (normal / benign / malignant), achieving val_acc=0.8813 vs. published baseline of 0.85. Fuses Grad-CAM across augmented views and cross-validates with LIME and SHAP using a 9-metric faithfulness suite.  
+`ResNet50 · Grad-CAM · LIME · SHAP · MLflow · IQ-OTH/NCCD`
 
 ---
 
