@@ -13,7 +13,7 @@ previously data analyst @ PreProd Corp
 ### what I work with
 
 ```
-Languages   Python · Java · C · TpyeScript · Bash
+Languages   Python · Java · C · TypeScript · Bash
 ML/DL       PyTorch · TensorFlow · HuggingFace · Transformers · scikit-learn
 Data        pandas · NumPy · PostgreSQL · Redis · MariaDB · KNIME
 Backend     FastAPI · REST APIs
